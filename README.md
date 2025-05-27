@@ -9,4 +9,6 @@ PunchBench, tailored for accurate and comprehensive evaluation of punchline comp
 
 Expected to be finished before 1st, June.
 
+**See U in Vienna, Austria.**
+
 **ACL 2025** main conference
