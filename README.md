@@ -7,7 +7,7 @@ PunchBench, tailored for accurate and comprehensive evaluation of punchline comp
 
 🔒 Release Evaluation code 
 
-Expected to be finished before 1st, June.
+Expected to be finished before 10th, June.
 
 **See U in Vienna, Austria.**
 
