@@ -14,3 +14,15 @@ PunchBench is a benchmark tailored for accurate and comprehensive evaluation of 
 
 🔒 Incorporating Evaluation into VLMEvalKit 
 
+**Citation:**
+
+```
+@inproceedings{ouyang-etal-2025-punchbench,
+  title={PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension},
+  author={Ouyang, Kun and Liu, Yuanxin and Li, Shicheng and Liu, Yi and Zhou, Hao and Meng, Fandong and Zhou, Jie and Sun, Xu},
+  booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+  publisher = "Association for Computational Linguistics",
+  pages = "986--1008",
+  year = "2025"
+}
+```
